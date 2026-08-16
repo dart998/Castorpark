@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Recargas Castor Park</string>
+    <string name="download_started">Descarga iniciada</string>
+    <string name="no_app_available">No hay una aplicación compatible instalada</string>
+    <string name="permission_denied">Permiso no concedido</string>
+</resources>
